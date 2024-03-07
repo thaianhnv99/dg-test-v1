@@ -8,7 +8,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <Script
-        strategy="afterInteractive"
+        // strategy="afterInteractive"
         src="https://cdn.jsdelivr.net/npm/copy-to-clipboard@3.3.3/index.min.js"
       />
       <body>
