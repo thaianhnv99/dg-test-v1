@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-sync-scripts */
 import Script from "next/script";
-var deselectCurrent = require("toggle-selection");
+var deselectCurrent = require("copy-to-clipboard");
 
 const Home = () => {
   return (
