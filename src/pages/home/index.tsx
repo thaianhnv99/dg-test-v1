@@ -15,6 +15,7 @@ const Home = () => {
       <Head>
         <script
           type="text/javascript"
+          crossOrigin="use-credentials"
           src="https://cdn.jsdelivr.net/npm/copy-to-clipboard@3.3.3/index.min.js"
         />
       </Head>
